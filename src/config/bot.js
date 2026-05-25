@@ -24,8 +24,8 @@ export const botConfig = {
     // 5 = Competing
     activities: [
       {
-        // Text users will see (example: "Playing /help | Titan Bot").
-        name: "ATK ON TOP 👑",
+        // Text users will see (example: "Playing /help | RuRu-bot").
+        name: "/help | Private Bot",
         // Activity type number (0 = Playing).
         type: 0, 
       },
@@ -136,7 +136,7 @@ export const botConfig = {
     },
     footer: {
       // Default footer text used in bot embeds.
-      text: "Titan Bot",
+      text: "RuRu-bot",
       // Footer icon URL (null = no icon).
       icon: null,
     },
